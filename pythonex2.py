@@ -35,7 +35,7 @@ while True:
     else:
         print(num,' is too low.')
 '''
-#Step 4
+#Step 4 + BONUS
 while True:
     randnum = random.randint(1,10)
     print('I am thinking of a number between 1 and 10.')
